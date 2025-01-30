@@ -164,7 +164,7 @@ To help development, we are making the test set from last year’s IEEE-IS² 202
 
 ## Baseline System
 
-The IEEE-IS² 2025 Music Packet Loss Concealment Challenge will make use of the same baseline model of the 2024 edition.
+The IEEE-IS² 2025 Music Packet Loss Concealment Challenge will make use of the same baseline model as the 2024 edition.
 
 The baseline system, named **PARCnet-IS²**, comprises a linear predictor (LP) and a lightweight feedforward CNN. The LP is fitted in real-time within a sliding context window using the autocorrelation method with white noise compensation, whereas the CNN is trained to estimate the LP residual. More information can be found in last year’s Challenge report 📝 [arXiv preprint](https://arxiv.org/abs/2409.18564).
 
