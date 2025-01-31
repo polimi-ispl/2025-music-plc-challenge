@@ -189,10 +189,11 @@ If you use PARCnet-IS² in your research, please cite:
 
 ## Video Presentations
 
-The winning teams are invited to record a **brief video presentation** showcasing their method, which will be featured in the final Challenge presentation at the 3rd IEEE International Workshop on Networked Immersive Audio ([IEEE IWNIA 2025](https://internetofsounds2025.ieee-is2.org/workshops/3rd-ieee-international-workshop-networked-immersive-audio)) in L’Aquila, Italy, October 29–30, 2025.
-In due time, the organizers will reach out to the top-ranking teams to coordinate the video recordings.
+The winning teams are invited to record a brief video presentation showcasing their method, which will be featured in the final Challenge presentation at the 3rd IEEE International Workshop on Networked Immersive Audio ([IEEE IWNIA 2025](https://internetofsounds2025.ieee-is2.org/workshops/3rd-ieee-international-workshop-networked-immersive-audio)) in L’Aquila, Italy, October 29–30, 2025.
 
-### Contacts
+The organizers will reach out to the top-ranking teams to coordinate the video recordings. While this is optional and not mandatory, we highly encourage teams to take advantage of this opportunity to share their insights with the community.
+
+## Contacts
 
 For questions, please contact [music.plc.challenge@gmail.com](mailto:music.plc.challenge@gmail.com)
 
