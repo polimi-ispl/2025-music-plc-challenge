@@ -8,6 +8,8 @@ The **IEEE-IS² Music Packet Loss Concealment Challenge** aims to promote resear
 
 Packet loss, either by missing packets or high packet jitter, is one of the main problems and, in turn, engineering challenges in real-life NMP. While PLC for Voice over IP has recently attracted a great deal of attention, PLC for NMP applications has been considerably less studied. 
 
+This year’s challenge follows the same format as the 2024 edition, with a few important updates to reflect the importance of real-time performance in practical applications (see **Evaluation Rules**).
+
 We invite researchers and practitioners in signal processing, machine learning, and audio technologies at large to take part in the second edition of the challenge.
 
 The **IEEE-IS² 2025 Music Packet Loss Concealment Challenge** is part of the 3rd IEEE International Workshop on Networked Immersive Audio ([IEEE IWNIA 2025](https://internetofsounds2025.ieee-is2.org/workshops/3rd-ieee-international-workshop-networked-immersive-audio)), an event of the 6th IEEE International Symposium on the Internet of Sounds ([IEEE IS² 2025](https://internetofsounds2025.ieee-is2.org)). The Symposium will take place in L'Aquila, Italy, October 29–30, 2025.
@@ -107,9 +109,11 @@ The audio clips are artificially degraded by dropping packets according to prede
 The packet traces used to create the blind test set were repurposed from the INTERSPEECH 2022 Audio Deep Packet Loss Concealment Challenge ([Microsoft GitHub](https://github.com/microsoft/PLC-Challenge)). 
 
 Said traces are divided into three subsets according to the maximum burst loss length:
-•	**Subset 1.** Bursts of up to 6 consecutive packets 
-•	**Subset 2.** Bursts of 6 to 16 consecutive packets
-•	**Subset 3.** Bursts of 16 to 50 consecutive packets
+
+*	**Subset 1.** Bursts of up to 6 consecutive packets 
+*	**Subset 2.** Bursts of 6 to 16 consecutive packets
+*	**Subset 3.** Bursts of 16 to 50 consecutive packets
+  
 We sample packet traces from subset 1 (with high probability) and subset 2 (with low probability). We do not sample traces from subset 3.
 
 The resulting packet traces will be made available in txt format along with the corresponding degraded audio clips. In practice, such a degradation consists of filling the missing packets with zeros in the waveform domain. 
