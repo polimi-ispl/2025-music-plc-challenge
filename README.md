@@ -164,7 +164,7 @@ Participants are strictly prohibited from employing the blind test set for any t
 
 To help development, we are making the test set from last year’s IEEE-IS² 2024 Music Packet Loss Concealment Challenge publicly available. Participants can use this dataset to benchmark their methods. However, please note that this dataset and the 2025 blind test set may differ significantly.
 
-**Download the dataset [here](https://polimi365-my.sharepoint.com/:f:/g/personal/10391311_polimi_it/EsXcdjz3YZFKgdDVfQBwtOwBB7tXLAPuVVlcvZmKlIkt4A?e=eLnSfX)** 📂
+* **Download the dataset [here](https://polimi365-my.sharepoint.com/:f:/g/personal/10391311_polimi_it/EsXcdjz3YZFKgdDVfQBwtOwBB7tXLAPuVVlcvZmKlIkt4A?e=eLnSfX)** 📂
 
 ## Baseline System
 
@@ -172,7 +172,7 @@ The IEEE-IS² 2025 Music Packet Loss Concealment Challenge will make use of the 
 
 The baseline system, named **PARCnet-IS²**, comprises a linear predictor (LP) and a lightweight feedforward CNN. The LP is fitted in real-time within a sliding context window using the autocorrelation method with white noise compensation, whereas the CNN is trained to estimate the LP residual. More information can be found in last year’s Challenge report 📝 [arXiv preprint](https://arxiv.org/abs/2409.18564).
 
-**The pre-trained PARCnet-IS² model and inference code are available [here](https://github.com/polimi-ispl/2024-music-plc-challenge/tree/main/parcnet-is2)** 📌
+* **The pre-trained PARCnet-IS² model and inference code are available [here](https://github.com/polimi-ispl/2024-music-plc-challenge/tree/main/parcnet-is2)** 📌
 
 If you use PARCnet-IS² in your research, please cite:
 ```
@@ -199,3 +199,11 @@ For questions, please contact [music.plc.challenge@gmail.com](mailto:music.plc.c
 ## Organizers
 *	**Alessandro Ilic Mezza** (Politecnico di Milano)
 *	**Alberto Bernardini** (Politecnico di Milano)
+
+-------------------
+
+<p align="center">
+<img src="/resources/Sennheiser-logo-new.png" width="300" />
+<img src="/resources/RESTART-logo.png" width="300" />
+<img src="/resources/ispl1.png" width="300" />
+</p>
