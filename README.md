@@ -73,10 +73,10 @@ Once the blind test set is released, every team is required to:
 *	Make sure that the zip file can be downloaded without access restrictions.
 
 Then, each team should submit the following files through [EasyChair](https://easychair.org/conferences/?conf=ieeeis22025):
-*	A technical report in PDF format detailing the approach `[Upload as: Paper]`
-*	A txt file containing: `[Upload as: Supplemental material]`
-*	a permanent link to a public repository (e.g., GitHub) hosting the project code.
-*	a permanent link to a cloud storage service (e.g., Dropbox) hosting the enhanced audio clips processed with the proposed PLC system. Please make sure that download is enabled without access restrictions.
+-	A technical report in PDF format detailing the approach `[Upload as: Paper]`
+-	A txt file containing: `[Upload as: Supplemental material]`
+	- a permanent link to a public repository (e.g., GitHub) hosting the project code.
+    - a permanent link to a cloud storage service (e.g., Dropbox) hosting the enhanced audio clips processed with the proposed PLC system. Please make sure that download is enabled without access restrictions.
 
 **The cloud storage folder must host a single zip file containing the enhanced audio files. Make sure that you zip as many audio clips as there are in the blind test set. Every enhanced clip should have the same filename as the corresponding degraded clip. Do not upload the degraded audio clips from the blind test set or any other file to the cloud storage folder.**
 
