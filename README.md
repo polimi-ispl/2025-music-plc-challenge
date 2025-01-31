@@ -203,7 +203,7 @@ For questions, please contact [music.plc.challenge@gmail.com](mailto:music.plc.c
 -------------------
 
 <p align="center">
-<img src="/resources/Sennheiser-logo-new.png" width="300" />
-<img src="/resources/RESTART-logo.png" width="300" />
-<img src="/resources/ispl1.png" width="300" />
+<img src="/resources/Sennheiser-logo-new.png" width="250" />
+<img src="/resources/RESTART-logo.png" width="250" />
+<img src="/resources/ispl1.png" width="250" />
 </p>
