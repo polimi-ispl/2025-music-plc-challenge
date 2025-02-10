@@ -12,7 +12,7 @@ This year’s challenge follows the same format as the 2024 edition, with a few 
 
 We invite researchers and practitioners in signal processing, machine learning, and audio technologies at large to take part in the second edition of the challenge.
 
-The **IEEE-IS² 2025 Music Packet Loss Concealment Challenge** is part of the 3rd IEEE International Workshop on Networked Immersive Audio ([IEEE IWNIA 2025](https://internetofsounds2025.ieee-is2.org/workshops/3rd-ieee-international-workshop-networked-immersive-audio)), an event of the 6th IEEE International Symposium on the Internet of Sounds ([IEEE IS² 2025](https://internetofsounds2025.ieee-is2.org)). The Symposium will take place in L'Aquila, Italy, October 29–30, 2025.
+The **IEEE-IS² 2025 Music Packet Loss Concealment Challenge** is a satellite event of the 6th IEEE International Symposium on the Internet of Sounds ([IEEE IS² 2025](https://internetofsounds2025.ieee-is2.org)), which will take place in L'Aquila, Italy, October 29–31, 2025.
 
 ## Challenge Prizes 🏆
 We are thrilled to announce that the three top-ranked teams will be awarded prizes for a total of **800€**, thanks to the generous sponsorship of **Sennheiser Electronic SE & Co. KG.**   
@@ -28,7 +28,7 @@ The awards for the highest-ranked submissions are:
 We look forward to receiving your contributions—best of luck to all participants!
 
 ## Important Dates
-- [ ] **February 10, 2025** – Challenge start
+- [x] **February 10, 2025** – Challenge start
 - [ ] **May 25, 2025** – Release of blind test set
 - [ ] **June 2, 2025** – Challenge submissions due (11:59 PM CET)
 - [ ] **September 29, 2025** – (tentative) Notification of evaluation results
@@ -90,7 +90,7 @@ Technical reports should describe the proposed approach and provide all the deta
 
 Please note that **technical reports will <ins>not</ins> be included in the Symposium Proceedings**. 
 
-Nevertheless, authors are warmly encouraged to submit regular papers outlining their PLC method to the 3rd International Workshop on Networked Immersive Audio or the main conference track. Regular papers will undergo the normal peer-review process, whereas technical reports will not. 
+Nevertheless, authors are warmly encouraged to submit regular papers outlining their PLC method to the main conference track. Regular papers will undergo the normal peer-review process, whereas technical reports will not. 
 
 **Paper acceptance and registration to the conference are <ins>not</ins> required for taking part in the 2025 Music Packet Loss Concealment Challenge.**
 
@@ -189,7 +189,7 @@ If you use PARCnet-IS² in your research, please cite:
 
 ## Video Presentations
 
-The winning teams are invited to record a brief video presentation showcasing their method, which will be featured in the final Challenge presentation at the 3rd IEEE International Workshop on Networked Immersive Audio ([IEEE IWNIA 2025](https://internetofsounds2025.ieee-is2.org/workshops/3rd-ieee-international-workshop-networked-immersive-audio)) in L’Aquila, Italy, October 29–30, 2025.
+The winning teams are invited to record a brief video presentation showcasing their method, which will be featured in the final Challenge presentation at the 6th IEEE International Symposium on the Internet of Sounds ([IEEE IS² 2025](https://internetofsounds2025.ieee-is2.org)) in L’Aquila, Italy, October 29–31, 2025.
 
 The organizers will reach out to the top-ranking teams to coordinate the video recordings. While this is optional and not mandatory, we highly encourage teams to take advantage of this opportunity to share their insights with the community.
 
