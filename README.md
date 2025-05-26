@@ -29,8 +29,8 @@ We look forward to receiving your contributions—best of luck to all participan
 
 ## Important Dates
 - [x] **February 10, 2025** – Challenge start
-- [ ] **May 25, 2025** – Release of blind test set
-- [ ] **June 2, 2025** – Challenge submissions due (11:59 PM CET)
+- [ ] ~~May 25, 2025~~ → **June 12, 2025** – Release of blind test set
+- [ ] ~~June 2, 2025~~ → **June 20, 2025** – Challenge submissions due (11:59 PM CET)
 - [ ] **September 29, 2025** – (tentative) Notification of evaluation results
 - [ ] **October 29–31, 2025** – Symposium dates
   
