@@ -1,6 +1,13 @@
 # IEEE-IS² 2025 Music Packet Loss Concealment Challenge
 Welcome to the official repository for the for the [IEEE-IS² 2025 Music Packet Loss Concealment Challenge](https://internetofsounds2025.ieee-is2.org/workshops/3rd-ieee-international-workshop-networked-immersive-audio/music-packet-loss-concealment)!
 
+-----------------------------
+## Updates
+
+:bell: The <ins>**blind test set**</ins> has been released: [**[direct download]**](https://polimi365-my.sharepoint.com/:u:/g/personal/10391311_polimi_it/EWzMMfTUkbhJktmGeoGLyHYByui3SfBV_Bcyn0N12ZJjWA?download=1)
+
+-----------------------------
+
 ## Introduction
 After the success of last year’s inaugural edition, we are glad to announce that the IEEE-IS² Music Packet Loss Concealment Challenge is coming back in 2025!
 
@@ -29,7 +36,7 @@ We look forward to receiving your contributions—best of luck to all participan
 
 ## Important Dates
 - [x] **February 10, 2025** – Challenge start
-- [ ] ~~May 25, 2025~~ → **June 12, 2025** – Release of blind test set
+- [x] ~~May 25, 2025~~ → **June 12, 2025** – Release of blind test set
 - [ ] ~~June 2, 2025~~ → **June 20, 2025** – Challenge submissions due (11:59 PM CET)
 - [ ] **September 29, 2025** – (tentative) Notification of evaluation results
 - [ ] **October 29–31, 2025** – Symposium dates
@@ -177,7 +184,8 @@ The IEEE-IS² 2025 Music Packet Loss Concealment Challenge will make use of the 
 
 The baseline system, named **PARCnet-IS²**, comprises a linear predictor (LP) and a lightweight feedforward CNN. The LP is fitted in real-time within a sliding context window using the autocorrelation method with white noise compensation, whereas the CNN is trained to estimate the LP residual. More information can be found in last year’s Challenge report 📝 [arXiv preprint](https://arxiv.org/abs/2409.18564).
 
-* **The pre-trained PARCnet-IS² model and inference code are available [here](https://github.com/polimi-ispl/2024-music-plc-challenge/tree/main/parcnet-is2)** 📌
+| 📌 **The pre-trained PARCnet-IS² model and inference code are available [[here]](https://github.com/polimi-ispl/2024-music-plc-challenge/tree/main/parcnet-is2)** |
+|------------- |
 
 If you use PARCnet-IS² in your research, please cite:
 ```
