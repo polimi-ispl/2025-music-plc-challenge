@@ -102,6 +102,10 @@ For drafting the technical report, please use the same LaTeX and Word template a
 Please note that the evaluation rules have changed from the 2024 edition.
 
 ### Blind Test Set
+
+| 📥 **Download the blind test set here: [[download]](https://polimi365-my.sharepoint.com/:u:/g/personal/10391311_polimi_it/EWzMMfTUkbhJktmGeoGLyHYByui3SfBV_Bcyn0N12ZJjWA?download=1)** |
+|------------- |
+
 The blind test set consists of several single-channel audio clips in a 16bit-44.1kHz wav format. Every file consists of a short clip of a solo-instrument performance.
 
 The audio clips are artificially degraded by dropping packets according to predetermined “packet traces,” i.e., text files containing a string of binary digits: 0 if a packet was correctly received and 1 if the packet was lost. Every digit in a packet trace corresponds to 512 samples. Traces do not contain explicit temporal information, and the packet rate is implicitly determined by the audio sampling rate.
@@ -164,7 +168,8 @@ Participants are strictly prohibited from employing the blind test set for any t
 
 To help development, we are making the test set from last year’s IEEE-IS² 2024 Music Packet Loss Concealment Challenge publicly available. Participants can use this dataset to benchmark their methods. However, please note that this dataset and the 2025 blind test set may differ significantly.
 
-* **Download the dataset [here](https://polimi365-my.sharepoint.com/:f:/g/personal/10391311_polimi_it/EsXcdjz3YZFKgdDVfQBwtOwBB7tXLAPuVVlcvZmKlIkt4A?e=eLnSfX)** 📂
+| 📥 **Download the validation dataset here: [[download]](https://polimi365-my.sharepoint.com/:f:/g/personal/10391311_polimi_it/EsXcdjz3YZFKgdDVfQBwtOwBB7tXLAPuVVlcvZmKlIkt4A?e=rjT4jy)** |
+|------------|
 
 ## Baseline System
 
