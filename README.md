@@ -5,7 +5,7 @@ Welcome to the official repository for the for the [IEEE-IS² 2025 Music Packet 
 ## Updates
 
 ### 🏁 The Challenge is now closed!
-> Results have been published [here](https://github.com/polimi-ispl/2025-music-plc-challenge/edit/main/README.md#challenge-results-).
+> Results have been published [here](https://github.com/polimi-ispl/2025-music-plc-challenge/tree/main?tab=readme-ov-file#challenge-results-).
 
 :bell: The <ins>**blind test set**</ins> has been released: [**[direct download]**](https://polimi365-my.sharepoint.com/:u:/g/personal/10391311_polimi_it/EWzMMfTUkbhJktmGeoGLyHYByui3SfBV_Bcyn0N12ZJjWA?download=1)
 
