@@ -4,6 +4,8 @@ Welcome to the official repository for the for the [IEEE-IS² 2025 Music Packet 
 -----------------------------
 ## Updates
 
+### 🏁 The Challenge is now closed.
+
 :bell: The <ins>**blind test set**</ins> has been released: [**[direct download]**](https://polimi365-my.sharepoint.com/:u:/g/personal/10391311_polimi_it/EWzMMfTUkbhJktmGeoGLyHYByui3SfBV_Bcyn0N12ZJjWA?download=1)
 
 -----------------------------
@@ -38,7 +40,7 @@ We look forward to receiving your contributions—best of luck to all participan
 - [x] **February 10, 2025** – Challenge start
 - [x] ~~May 25, 2025~~ → **June 12, 2025** – Release of blind test set
 - [x] ~~June 2, 2025~~ → **June 20, 2025** – Challenge submissions due (11:59 PM CET)
-- [ ] **September 29, 2025** – (tentative) Notification of evaluation results
+- [x] **October 3, 2025** – Notification of evaluation results
 - [ ] **October 29–31, 2025** – Symposium dates
   
 ## Problem Formulation
