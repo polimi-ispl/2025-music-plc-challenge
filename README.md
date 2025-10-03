@@ -4,7 +4,8 @@ Welcome to the official repository for the for the [IEEE-IS² 2025 Music Packet 
 -----------------------------
 ## Updates
 
-### 🏁 The Challenge is now closed.
+### 🏁 The Challenge is now closed!
+> Results have been published [here](https://github.com/polimi-ispl/2025-music-plc-challenge/edit/main/README.md#challenge-results-).
 
 :bell: The <ins>**blind test set**</ins> has been released: [**[direct download]**](https://polimi365-my.sharepoint.com/:u:/g/personal/10391311_polimi_it/EWzMMfTUkbhJktmGeoGLyHYByui3SfBV_Bcyn0N12ZJjWA?download=1)
 
@@ -207,6 +208,26 @@ If you use PARCnet-IS² in your research, please cite:
 The winning teams are invited to record a brief video presentation showcasing their method, which will be featured in the final Challenge presentation at the 6th IEEE International Symposium on the Internet of Sounds ([IEEE IS² 2025](https://internetofsounds2025.ieee-is2.org)) in L’Aquila, Italy, October 29–31, 2025.
 
 The organizers will reach out to the top-ranking teams to coordinate the video recordings. While this is optional and not mandatory, we highly encourage teams to take advantage of this opportunity to share their insights with the community.
+
+## Challenge Results 🏆
+We are excited to announce the [results](https://internetofsounds2025.ieee-is2.org/workshops/3rd-ieee-international-workshop-networked-immersive-audio/music-packet-loss-concealment) of the **IEEE-IS² 2025 Music Packet Loss Concealment Challenge**!
+
+This year, we received three systems from three teams:
+
+* **Aironi et al.** (Università Politecnica delle Marche, Carnegie Mellon University) – [[Tech report]](https://internetofsounds.net/public_downloads/Aironi_tech_report_2025.pdf)
+* **Daniotti and Turchet** (Università di Trento) – [[Tech report]](https://internetofsounds.net/public_downloads/Daniotti_tech_report_2025.pdf)
+* **Severi** (Politecnico di Torino) – [[Tech report]](https://internetofsounds.net/public_downloads/Severi_tech_report_2025.pdf)
+
+### Team Ranking
+
+|                              | Average score ± SD | Median score | Trials won | Ranking |
+|------------------------------|:------------------:|:------------:|:----------:|:-------:|
+| **Aironi et al.**            | 68.82 ± 19.18      | 73.0         | 8          | 🥇      |
+| **Daniotti and Turchet**     | 57.66 ± 20.30      | 56.5         | 1          | 🥈      |
+| **Severi**                   | 52.01 ± 18.24      | 50.0         | 1          | 🥉      |
+| **PARCnet-IS2** (Baseline)   | 53.96 ± 20.27      | 55.5         | 0          | –       |
+| **Zero-filling** (Anchor)    | 15.75 ± 14.49      | 11.5         | 0          | –       |
+
 
 ## Contacts
 
