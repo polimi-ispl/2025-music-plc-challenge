@@ -178,7 +178,7 @@ Participants are strictly prohibited from employing the blind test set for any t
 
 To help development, we are making the test set from last year’s IEEE-IS² 2024 Music Packet Loss Concealment Challenge publicly available. Participants can use this dataset to benchmark their methods. However, please note that this dataset and the 2025 blind test set may differ significantly.
 
-| 📥 **Download the validation dataset here: [[download]](https://polimi365-my.sharepoint.com/:f:/g/personal/10391311_polimi_it/EsXcdjz3YZFKgdDVfQBwtOwBB7tXLAPuVVlcvZmKlIkt4A?e=rjT4jy)** |
+| 📥 **Download the validation dataset here: [[download]](https://polimi365-my.sharepoint.com/:f:/g/personal/10391311_polimi_it/EsXcdjz3YZFKgdDVfQBwtOwBB7tXLAPuVVlcvZmKlIkt4A?e=hf0Ibi)** |
 |------------|
 
 ## Baseline System
