@@ -4,6 +4,11 @@ Welcome to the official repository for the for the [IEEE-IS² 2025 Music Packet 
 -----------------------------
 ## Updates
 
+### The <ins>full challenge dataset</ins> is now available on Zenodo!
+> <a href="https://doi.org/10.5281/zenodo.23041207"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.23041207.svg" alt="DOI"></a>
+>
+> **Note:** The full dataset release includes the clean audio clips, which were not previously publicly available.
+
 ### 🏁 The Challenge is now closed!
 > Results have been published [here](https://github.com/polimi-ispl/2025-music-plc-challenge/tree/main?tab=readme-ov-file#challenge-results-).
 
