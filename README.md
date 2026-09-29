@@ -33,7 +33,7 @@ If you use the challenge dataset or resources in your research, please cite our 
   volume={},
   number={},
   pages={1-10},
-  doi={10.1109/IS264627.2025.11284631}}
+  doi={10.1109/IS264627.2025.11284631}
 }
 ```
 
